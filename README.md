@@ -7,3 +7,6 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 ```bash
 git clone https://github.com/kohandy1902/LazyVim.git ~/.config/nvim
 ```
+
+## Additional Install
+- python3-venv (to install basedpyright)
